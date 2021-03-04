@@ -1,0 +1,26 @@
+Met with team last time. They have already completed all the hardware. Team will start to build base station next.
+
+Focus for now: Research RTK GPS and Mission Planner software.
+
+Don't worry about the budget. Just buy the stuff we need.
+
+Dr. McMurrough doesn't think the hardware is done. Also doesn't think they will be able to finish the base station. It will be more complex than expected. And there will be a lot more functionality to work on.
+
+more functionalities:
+	GUI, UI/UX
+	Athletic field re-striping
+	app to control rover
+
+
+RTK base station
+->publish to RTK to go.
+
+Paint spraying functionality will be implemented by our team. 
+
+Solenoid valve (12-24volts) for controlling  paint spray. Air compressor or tank may be needed.
+
+
+
+Suggestion: use an RC CAR for prototyping with RTK-GPS
+
+
